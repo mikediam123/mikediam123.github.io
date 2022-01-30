@@ -9,7 +9,7 @@ Welcome to my personal site! I am currently an Associate Professor of Quantitati
 
 Kim, S., Yun, J., Schneider, B., **Broda, M.**, Klager, C., & Chen, I.-C. (2022, in press). The Effects of Growth Mindset on College Persistence and Completion. *Journal of Economic Behavior and Organization.*
 
-**Broda, M.**, Yun, J., Schneider, B., Yeager, D. S., Walton, G. M., & Diemer, M. (2018). Reducing Inequality in Academic Success for Incoming College Students: A Randomized Trial of Growth Mindset and Belonging Interventions. *Journal of Research on Educational Effectiveness, 11*(3), 317–338. DOI: https://doi.org/10.1080/19345747.2018.1429037
+**Broda, M.**, Yun, J., Schneider, B., Yeager, D. S., Walton, G. M., & Diemer, M. (2018). Reducing Inequality in Academic Success for Incoming College Students: A Randomized Trial of Growth Mindset and Belonging Interventions. *Journal of Research on Educational Effectiveness, 11*(3), 317–338. DOI: [https://doi.org/10.1080/19345747.2018.1429037](https://doi.org/10.1080/19345747.2018.1429037)
 
 ### Application Machine Learning Techniques
 
