@@ -1,7 +1,7 @@
 # Michael D. Broda, Ph.D.
 ## Statistics, Data Science, Network Analysis, and Machine Learning in the Social Sciences
 
-[](Liz & Mike_Pre-Wedding-45.jpeg)
+![ ]("Liz & Mike_Pre-Wedding-45.jpeg")
 
 Welcome to my personal site! I am currently an Associate Professor of Quantitative Methods and Statistics in the School of Education at Virginia Commonwealth University in Richmond, VA. Below, I list a selection of my recent research, organized by topic. Interested in collaboration? Email me at [mdbroda@vcu.edu](mailto:mdbroda@vcu.edu).
 
